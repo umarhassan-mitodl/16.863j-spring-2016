@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "legacy_uid": "431d0943-9d2c-421d-52ad-d026b96eacaf",
+  "instructors": {
+    "content": [
+      "67f8ef91-038c-ea7e-b9db-3f932d19fe38"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "40b9cb5f-df60-d814-b4a5-0963694a75e2",
+    "website": "16-863j-system-safety-spring-2016"
+  },
+  "course_title": "System Safety",
+  "course_description": "This course covers important concepts and techniques in designing and operating safety-critical systems. Topics include the nature of risk, formal accident and human error models, causes of accidents, fundamental concepts of system safety engineering, system and software hazard analysis, designing for safety, fault tolerance, safety issues in the design of human-machine interaction, verification of safety, creating a safety culture, and management of safety-critical projects. Includes a class project involving the high-level system design and analysis of a safety-critical system.\n",
+  "department_numbers": [
+    "16",
+    "IDS"
+  ],
+  "extra_course_numbers": "IDS.340J (formerly ESD.863J)",
+  "primary_course_number": "16.863J",
+  "course_image_thumbnail": {
+    "content": "b5f70650-b877-78f2-bbd9-b8feaf011818",
+    "website": "16-863j-system-safety-spring-2016"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Open Textbooks",
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "site_uid": "3d80f979-54c3-4dac-b61b-2ab4b0bdd698",
+  "site_short_id": "16.863j-spring-2016",
+  "site_url_path": "courses/16-863j-system-safety-spring-2016",
+  "title": "Course Metadata"
+}

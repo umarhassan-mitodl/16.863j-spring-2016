@@ -1,0 +1,26 @@
+leftnav:
+- identifier: a7056e6b-28ae-6d0e-f552-acf92a2145d7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6fcaea5e-cab6-3eed-c2a2-087df6404fb1
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 13b84a3c-7b6e-8017-7c2a-eb9ddcef3a62
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: a9445a19-782b-4241-b9d8-4faf5b3cd456
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: d59aa135-ec7a-b233-8048-5d82099b8f0d
+  name: Assignments and Class Project
+  pageRef: /pages/assignments-and-class-project/
+  weight: 50
+- identifier: cfa7c6e6-d74d-480f-5738-f53d0d66ac20
+  name: 'Assignment 2: How Safe is Safe Enough?'
+  pageRef: /pages/assignments-and-class-project/assignment-2-how-safe-is-safe-enough
+  parent: d59aa135-ec7a-b233-8048-5d82099b8f0d
+  weight: 60
