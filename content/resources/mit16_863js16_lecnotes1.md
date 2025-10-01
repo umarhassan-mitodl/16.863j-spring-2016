@@ -4,6 +4,8 @@ description: This resource contains information regarding system safety.
 file: /courses/16-863j-system-safety-spring-2016/3bd61d02522835a834be4b6e245b0961_MIT16_863JS16_LecNotes1.pdf
 file_size: 1579186
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

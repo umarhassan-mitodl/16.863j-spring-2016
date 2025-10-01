@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides details on the assignments and class project.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Class Project
@@ -9,11 +11,11 @@ uid: d59aa135-ec7a-b233-8048-5d82099b8f0d
 
 **Assignment 1**: Citichem video
 
-Watch the Citichem video {{% resource_link "79819099-3b79-47d9-97db-b1ee03dc0830" "_Acceptable Risks_" %}}. Directed by Rick Wallace. Color, 92 min. 1986 and identify the factors that contributed to the accident. Do you think there a "root cause"?
+Watch the Citichem video [_Acceptable Risks_](http://www.imdb.com/title/tt0090586/). Directed by Rick Wallace. Color, 92 min. 1986 and identify the factors that contributed to the accident. Do you think there a "root cause"?
 
 **Assignment 2**: Answer the "{{% resource_link cfa7c6e6-d74d-480f-5738-f53d0d66ac20 "How Safe is Safe Enough?" %}}"
 
-**Assignment 3**: Answer the reading questions on {{% resource_link "0be48b2f-6d90-4ad0-810b-04f4957f4dac" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Leveson, Nancy G. Chapters 1–3 in _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with {{% resource_link "49ac2a88-f96a-4fad-aced-58af90460a50" "Google Books" %}}\]
+**Assignment 3**: Answer the reading questions on [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) Leveson, Nancy G. Chapters 1–3 in _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
 
 *   Chapter 1: Which of these factors are true for your field or industry? Are any of them not true?
 *   Chapter 2:
@@ -72,7 +74,7 @@ Create a CAST analysis for your accident. Compare your results with the results 
 
 **Project Instructions**: Do a hazard analysis of a real system.
 
-\[ESW\] = {{% resource_link "0be48b2f-6d90-4ad0-810b-04f4957f4dac" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with {{% resource_link "49ac2a88-f96a-4fad-aced-58af90460a50" "Google Books" %}}\] as
+\[ESW\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\] as
 
 1.  Write a description of the system, what are the goals, have there been accidents in the past with it? (if it is not new). What are the technical system safety requirements? \[ESW\] 7.3 and the overall management or organizational requirements \[ESW\] 7.4
 2.  Define the accidents and hazards of importance to the stakeholders. Select one or two important ones to analyze.

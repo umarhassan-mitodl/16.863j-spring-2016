@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, teaching
   objectives for the class, textbooks and readings, and grading policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,7 +36,7 @@ Topics include:
 There are two textbooks for the class:
 
 *   Leveson, Nancy G. _Safeware: System Safety and Computers_. Addison-Wesley Professional, 1995. ISBN: 9780201119725.
-*   {{% resource_link "0be48b2f-6d90-4ad0-810b-04f4957f4dac" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a {{% resource_link "0be48b2f-6d90-4ad0-810b-04f4957f4dac" "free download" %}} from the MIT Press website. \[Preview with {{% resource_link "49ac2a88-f96a-4fad-aced-58af90460a50" "Google Books" %}}\]
+*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) ———. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a [free download](https://mitpress.mit.edu/9780262016629) from the MIT Press website. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
 
 In addition, a few other readings will be assigned through out the semester. Our new {{% resource_link 13b84a3c-7b6e-8017-7c2a-eb9ddcef3a62 "STPA Primer (draft)" "#optional" %}} will also be provided for reference, but you are not required to read it.
 

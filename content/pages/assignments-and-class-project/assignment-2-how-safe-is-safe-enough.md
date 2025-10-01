@@ -22,11 +22,11 @@ uid: cfa7c6e6-d74d-480f-5738-f53d0d66ac20
     4. Most professional societies have an ethical code. What is the ethical code for the professional society in your industry?
 2. Consider the following two quotes:
 
-The excerpt from "{{% resource_link "bb5aee68-c9ca-408f-9530-2cb54842551b" "Court Upholds Controversial Regulations" %}}." _Science_ 213, no. 4504 (1981): 185. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/):
+The excerpt from "[Court Upholds Controversial Regulations](http://dx.doi.org/10.1126/science.7244628)." _Science_ 213, no. 4504 (1981): 185. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/):
 
 "The Supreme Court in the cotton dust decision on 17 June, says explicitly that OSHA must ignore the results of any cost-benefit comparison when setting a standard for worker exposure to a hazardous substance. Justice William Brennan, writing for the court's five-person majority, said that "Congress itself decided the basic relationship between costs and benefits by placing the benefit of the worker's health above all other considerations when it wrote the law in 1970. Yet the agency cannot require exposure controls that are impossible to achieve, nor can it bankrupt an entire industry." He concluded consideration of anything besides these questions would be inconsistent with Congress's direction."
 
-And next is another excerpt from Lockhart, T. W. "{{% resource_link "3ccd315f-e923-470c-9eaa-13957e8bb34c" "Safety Engineering and the Value of Life" %}}." _IEEE Technology and Society_ 9, no. 1 (1981): 3.
+And next is another excerpt from Lockhart, T. W. "[Safety Engineering and the Value of Life](http://dx.doi.org/10.1109/TS.1981.6500701)." _IEEE Technology and Society_ 9, no. 1 (1981): 3.
 
 "…there is an honored tradition in moral philosophy, associated primarily with Immanuel Kart, according to which human beings have a worth that is not commensurate with that of mere objects. According to this view, because of this incommensurability we must recognize and respect the liberty and dignity of each person and refrain from treating him merely as a means to some end. Human beings may not be used in order to achieve some higher good, for there is no higher good. Let us call this view the _Incommensurability Principle_.
 
@@ -61,4 +61,4 @@ What do you think should or should not be done? What are some of the options?
 
 What factors could keep the "right" things from being done? How do you establish the behavior expected by employees if you are a manager?
 
-{{< anchor \"i\" >}}{{< sup "i" >}}{{< /anchor >}}{{% resource_link "6dac7454-a216-4152-a235-ecd1a52c3aaa" "Food Anaphylaxis Action Network" %}}
+{{< anchor \"i\" >}}{{< sup "i" >}}{{< /anchor >}}[Food Anaphylaxis Action Network](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan)

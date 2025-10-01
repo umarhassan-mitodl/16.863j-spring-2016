@@ -30,6 +30,7 @@
     "website": "16-863j-system-safety-spring-2016"
   },
   "course_title": "System Safety",
+  "hide_download": true,
   "course_description": "This course covers important concepts and techniques in designing and operating safety-critical systems. Topics include the nature of risk, formal accident and human error models, causes of accidents, fundamental concepts of system safety engineering, system and software hazard analysis, designing for safety, fault tolerance, safety issues in the design of human-machine interaction, verification of safety, creating a safety culture, and management of safety-critical projects. Includes a class project involving the high-level system design and analysis of a safety-critical system.\n",
   "department_numbers": [
     "16",
@@ -41,6 +42,7 @@
     "content": "b5f70650-b877-78f2-bbd9-b8feaf011818",
     "website": "16-863j-system-safety-spring-2016"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Open Textbooks",
